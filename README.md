@@ -1,16 +1,18 @@
-# Code Refactor Starter Code
+# Horieson Refactor 
 **Description**
 
-- To refactor an existing webpage in order to make it accessible
+- The purpose of this repository is to refactor the frontend codebase to use semantic & accessible HTML
+- No UI changes were made, as the objective of this repository was strictly to refactor inaccessible HTML code
 
+**Languages Used**
 
-**Process**
-- Research sources to understand key concepts
-- Refactored HTML to make use of semantic elements
-- Added alt attributes to images
+- HTML
+- CSS
 
-**Link**
+**Github Repository**
+https://github.com/Alyssa2296/Horieson
+
+**Live Link**
 https://alyssa2296.github.io/Horieson/
 
-https://github.com/Alyssa2296/Horieson
 
